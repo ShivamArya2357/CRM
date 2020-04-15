@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.12">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/spring-and-hibernate-for-beginners-master/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-and-hibernate-for-beginners-master/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/spring-and-hibernate-for-beginners-master/04-spring-mvc-crud-5/web-customer-tracker-starter-files/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-6.0.0.Alpha4/lib/optional/c3p0/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-6.0.0.Alpha4/lib/optional/c3p0/hibernate-c3p0-6.0.0.Alpha4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/hibernate-release-6.0.0.Alpha4/lib/optional/c3p0/mchange-commons-java-0.2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
