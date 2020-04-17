@@ -46,4 +46,9 @@ tr:nth-child(odd) {background: #BBBBBB}
 	background: #cccccc;
 }
 
-#search {margin-top: 20px;}
+#search {
+	margin-top: 50px;
+	margin-left: 250px;
+	margin-right: 250px;
+	padding: 10px;
+}
